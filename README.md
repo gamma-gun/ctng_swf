@@ -4,8 +4,11 @@
 
 ## Table of Contents
 
+- Contribute to this page
 - Projects
 - Learning Resources
+
+## Contributing to this page
 
 
 ## Projects
