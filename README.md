@@ -7,6 +7,7 @@
 - Contribute to this page
 - Projects
 - Learning Resources
+- Learning Paths
 
 ## Contributing to this page
 
@@ -14,7 +15,7 @@ To contribute to these resources follow the instructions on our [Contributing](h
 
 ## Projects
 
-- Armory App
+- [Armory App](https://github.com/gamma-gun/armory)
 
 ## Recommended Learning Resources  
 
@@ -27,6 +28,12 @@ UX Design | [Google UX Design Professional Certificate](https://www.coursera.org
 Python | [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/) | `Beginner` | `Free or 60% off on Udemy`
 SalesForce | [Salesforce: Military Trailhead ](https://veterans.my.site.com/s/) | `Beginner` | `Free`
 Python | [100 Days of Code: The Complete Python Pro Bootcamp](https://www.udemy.com/course/100-days-of-code/?couponCode=ST15MT31224) | `Beginner` | `$`
+Git and GitHub | [Git and GitHub Tutorial](https://www.freecodecamp.org/news/git-and-github-for-beginners/) | `Beginner` | `Free` 
+
+
+## Learning Paths
+
+### Data Science
 
 
 
