@@ -1,17 +1,15 @@
 # CTNG Software Factory
 
- A dynamic collective of developers, Soldiers, and technology enthusiasts dedicated to merging military expertise with the forefront of software development. Inspired by the Army Software Factory initiative, our mission is to equip Soldiers with the necessary tools and knowledge for success in technological careers.
+ A dynamic collective of developers, Soldiers, and technology enthusiasts dedicated to merging military expertise with the forefront of software development. Inspired by the Army Software Factory initiative, our mission is to equip Soldiers with the necessary tools and knowledge for success in tech careers.
 
 ## Join our Discord for More Information
 Connect with us on [Discord](https://discord.gg/CutXG4DY) to learn more, engage with our community, and stay updated on the latest developments.
 
-## Mission 
+## Contents
 
-## Table of Contents
-
-- Contribute to this page
-- Projects
-- Learning Resources
+- [Contribute to this page](#contributing-to-this-page)
+- [Projects](#projects)
+- [Learning Resources](#learning-resources)
 - [Sending Feedback](#sending-feedback)
 
 ## Contributing to this page
@@ -22,7 +20,7 @@ To contribute to these resources follow the instructions on our [Contributing](h
 
 - [Armory App](https://github.com/gamma-gun/armory)
 
-## Recommended Learning Resources  
+## Learning Resources  
 
 Learning Focus | Course Link | Skill Level | Cost 
 --- | --- | --- | ---
@@ -36,9 +34,36 @@ Python | [100 Days of Code: The Complete Python Pro Bootcamp](https://www.udemy.
 Git and GitHub | [Git and GitHub Tutorial](https://www.freecodecamp.org/news/git-and-github-for-beginners/) | `Beginner` | `Free` 
 
 
-## Don't get stuck in "tutorial hell"
+## Don't get stuck in "tutorial hell", have a plan
 
+Tutorial hell refers to a state of being stuck in a cycle of constantly consuming programming tutorials without being able to apply the knowledge in the real world and build real apps.
 
+Follow a roadmap or guide so you don't get stuck.
+
+### Developer Roadmaps
+
+The best resource I have found to keep track of your progress and essential skills. You can sign up here at [Roadmaps.sh](https://roadmap.sh/), but I will save you a click and break some of them out for you. Feel free to check them out if you don't see the path you are interested in.
+
+#### Computer Science
+
+- [Computer Science](https://roadmap.sh/computer-science)
+
+#### Web
+
+- [Frontend Developer](https://roadmap.sh/frontend)
+- [Backend Developer](https://roadmap.sh/backend)
+- [Full Stack Developer](https://roadmap.sh/full-stack)
+
+#### Mobile
+
+- [Android](https://roadmap.sh/android)
+- [Flutter](https://roadmap.sh/technical-writer)
+- [React Native](https://roadmap.sh/react-native)
+
+#### Databases 
+
+- [PosgreSQL DBA](https://roadmap.sh/postgresql-dba)
+- [MongoDB "NoSQL"](https://roadmap.sh/mongodb)
 
 ## Sending Feedback
 
