@@ -3,8 +3,9 @@
  A dynamic collective of developers, Soldiers, and technology enthusiasts dedicated to merging military expertise with the forefront of software development. Inspired by the Army Software Factory initiative, our mission is to equip Soldiers with the necessary tools and knowledge for success in tech careers.
 
 ## Join our Discord for More Information
-Connect with us on [Discord](https://discord.gg/CutXG4DY) to learn more, engage with our community, and stay updated on the latest developments.
+Connect with us on to learn more, engage with our community, and stay updated on the latest developments.
 
+[![](https://dcbadge.vercel.app/api/server/Zf78WbRS)](https://discord.gg/Zf78WbRS)
 ## Contents
 
 - [Contribute to this page](#contributing-to-this-page)
