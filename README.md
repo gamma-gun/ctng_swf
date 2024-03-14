@@ -10,6 +10,7 @@
 
 ## Contributing to this page
 
+To contribute to these resources follow the instructions on our [Contributing](https://github.com/gamma-gun/ctng_swf/blob/main/CONTRIBUTING.md#book-code-of-conduct) Guide.
 
 ## Projects
 
