@@ -33,8 +33,7 @@ Git and GitHub | [Git and GitHub Tutorial](https://www.freecodecamp.org/news/git
 
 ## Learning Paths
 
-### Data Science
-
+- Data Science
 
 
 
