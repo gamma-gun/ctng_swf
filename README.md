@@ -9,6 +9,7 @@ Connect with us on to learn more, engage with our community, and stay updated on
 ## Contents
 
 - [Mission](#mission)
+- [Community Goals](#goals)
 - [Contribute](#contribute)
 - [Projects](#projects)
 - [Learning Resources](#learning-resources)
@@ -18,7 +19,13 @@ Connect with us on to learn more, engage with our community, and stay updated on
 
 Our mission is to empower the Connecticut National Guard by creating a community of skilled developers dedicated to launching tech careers, developing mission-critical software, and fostering innovation. We aim to connect, train, and mentor National Guard members in technology and software development, enabling them to build solutions that support Soldiers, and improve the "Guard Experience" . By encouraging cooperation and consolidating efforts, we strive to modernize and strengthen the Guard's technological capabilities, ensuring operational readiness and resilience against emerging threats. Our goal is to transform the Connecticut National Guard into a leading example of technological innovation and collaborative modernization.
 
-## Code of Conduct
+## Goals
+
+1. ***Establish a Core Team and Community:*** Form a foundational team of diverse Connecticut National Guard members to foster a community focused on technological innovation and collaboration.
+
+2. ***Develop and Implement Training Programs:*** Create and roll out comprehensive, flexible training and mentorship programs in technology and cybersecurity tailored to the National Guard members' needs.
+
+3. ***Initiate a Pilot Project:*** Launch a pilot project addressing a critical need within the Connecticut National Guard to demonstrate the practical impact and potential of the initiative
 
 ## Contribute
 
