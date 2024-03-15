@@ -43,51 +43,67 @@ Follow a roadmap or guide so you don't get stuck.
 
 ### Developer Roadmaps
 
-The best resource I have found to keep track of your progress and essential skills. You can sign up here at [Roadmaps.sh](https://roadmap.sh/), but I will save you a click and break some of them out for you. Feel free to check them out if you don't see the path you are interested in.
+The best resource I have found to keep track of your progress and essential skills. You can sign up here at [Roadmaps.sh](https://roadmap.sh/), but I will save you a click and break them out for you. Feel free to check them out if you don't see the path you are interested in.
 
-Here is the list of available roadmaps with more being actively worked upon.
+#### Web Development
 
 - [Frontend Roadmap](https://roadmap.sh/frontend) / [Frontend Beginner Roadmap](https://roadmap.sh/frontend?r=frontend-beginner)
 - [Backend Roadmap](https://roadmap.sh/backend) / [Backend Beginner Roadmap](https://roadmap.sh/backend?r=backend-beginner)
 - [DevOps Roadmap](https://roadmap.sh/devops) / [DevOps Beginner Roadmap](https://roadmap.sh/devops?r=devops-beginner)
 - [Full Stack Roadmap](https://roadmap.sh/full-stack)
-- [Computer Science Roadmap](https://roadmap.sh/computer-science)
-- [Data Structures and Algorithms Roadmap](https://roadmap.sh/datastructures-and-algorithms)
-- [AI and Data Scientist Roadmap](https://roadmap.sh/ai-data-scientist)
-- [MLOps Roadmap](https://roadmap.sh/mlops)
-- [QA Roadmap](https://roadmap.sh/qa)
-- [Python Roadmap](https://roadmap.sh/python)
-- [Software Architect Roadmap](https://roadmap.sh/software-architect)
-- [Game Developer Roadmap](https://roadmap.sh/game-developer) / [Server Side Game Developer](https://roadmap.sh/server-side-game-developer)
-- [Software Design and Architecture Roadmap](https://roadmap.sh/software-design-architecture)
-- [JavaScript Roadmap](https://roadmap.sh/javascript)
-- [TypeScript Roadmap](https://roadmap.sh/typescript)
-- [C++ Roadmap](https://roadmap.sh/cpp)
 - [React Roadmap](https://roadmap.sh/react)
 - [React Native Roadmap](https://roadmap.sh/react-native)
 - [Vue Roadmap](https://roadmap.sh/vue)
 - [Angular Roadmap](https://roadmap.sh/angular)
 - [Node.js Roadmap](https://roadmap.sh/nodejs)
 - [GraphQL Roadmap](https://roadmap.sh/graphql)
-- [Android Roadmap](https://roadmap.sh/android)
-- [Flutter Roadmap](https://roadmap.sh/flutter)
+
+#### Computer Science
+
+- [Computer Science Roadmap](https://roadmap.sh/computer-science)
+- [Data Structures and Algorithms Roadmap](https://roadmap.sh/datastructures-and-algorithms)
+
+#### Programming Languages
+
+- [Python Roadmap](https://roadmap.sh/python)
+- [C++ Roadmap](https://roadmap.sh/cpp)
+- [JavaScript Roadmap](https://roadmap.sh/javascript)
+- [TypeScript Roadmap](https://roadmap.sh/typescript)
 - [Go Roadmap](https://roadmap.sh/golang)
 - [Rust Roadmap](https://roadmap.sh/rust)
 - [Java Roadmap](https://roadmap.sh/java)
-- [Spring Boot Roadmap](https://roadmap.sh/spring-boot)
-- [Design System Roadmap](https://roadmap.sh/design-system)
+
+#### Databases
+
 - [PostgreSQL Roadmap](https://roadmap.sh/postgresql-dba)
 - [SQL Roadmap](https://roadmap.sh/sql)
-- [Blockchain Roadmap](https://roadmap.sh/blockchain)
-- [ASP.NET Core Roadmap](https://roadmap.sh/aspnet-core)
+- [MongoDB Roadmap](https://roadmap.sh/mongodb)
+
+#### Mobile Development
+
+- [Android Roadmap](https://roadmap.sh/android)
+- [Flutter Roadmap](https://roadmap.sh/flutter)
+
+#### DevOps and Management
+
+- [Software Design and Architecture Roadmap](https://roadmap.sh/software-design-architecture)
+- [Design System Roadmap](https://roadmap.sh/design-system)
+- [Docker Roadmap](https://roadmap.sh/docker)
 - [System Design Roadmap](https://roadmap.sh/system-design)
 - [Kubernetes Roadmap](https://roadmap.sh/kubernetes)
 - [Cyber Security Roadmap](https://roadmap.sh/cyber-security)
-- [MongoDB Roadmap](https://roadmap.sh/mongodb)
 - [UX Design Roadmap](https://roadmap.sh/ux-design)
-- [Docker Roadmap](https://roadmap.sh/docker)
-- [Prompt Engineering Roadmap](https://roadmap.sh/prompt-engineering)
 - [Technical Writer Roadmap](https://roadmap.sh/technical-writer)
+- [MLOps Roadmap](https://roadmap.sh/mlops)
+- [QA Roadmap](https://roadmap.sh/qa)
+- [Software Architect Roadmap](https://roadmap.sh/software-architect)
+
+
+#### Artificial Intelligence  
+
+- [AI and Data Scientist Roadmap](https://roadmap.sh/ai-data-scientist)
+- [Prompt Engineering Roadmap](https://roadmap.sh/prompt-engineering)
+- [Blockchain Roadmap](https://roadmap.sh/blockchain)
 
 There are also interactive best practices:
 
