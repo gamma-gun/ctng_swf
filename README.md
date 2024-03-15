@@ -19,7 +19,9 @@ To contribute to these resources follow the instructions on our [Contributing](h
 
 ## Projects
 
-- [Armory App](https://github.com/gamma-gun/armory)
+- [Armory](https://github.com/gamma-gun/armory) is your all-encompassing National Guard management tool, designed to enhance the efficiency of Soldier data management and communication. It simplifies the tracking of administrative requirements automated notifications, ensuring adherence to crucial deadlines.
+
+We are looking for contributors to this project! Check out the repository and help with the beginning stages of design.
 
 ## Learning Resources  
 
