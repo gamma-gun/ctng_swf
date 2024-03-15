@@ -5,7 +5,6 @@
 ### Contents
 
 
-
 - [Submitting Pull Requests](#repeat-submitting-pull-requests)
 - [Writing Commit Messages](#memo-writing-commit-messages)
 - [Code Review](#white_check_mark-code-review)
