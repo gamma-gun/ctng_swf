@@ -8,12 +8,19 @@ Connect with us on to learn more, engage with our community, and stay updated on
 [![](https://dcbadge.vercel.app/api/server/Zf78WbRS)](https://discord.gg/Zf78WbRS)
 ## Contents
 
-- [Contribute to this page](#contributing-to-this-page)
+- [Mission](#mission)
+- [Contribute](#contribute)
 - [Projects](#projects)
 - [Learning Resources](#learning-resources)
 - [Sending Feedback](#sending-feedback)
 
-## Contributing to this page
+## Mission
+
+Our mission is to empower the Connecticut National Guard by creating a community of skilled developers dedicated to launching tech careers, developing mission-critical software, and fostering innovation. We aim to connect, train, and mentor National Guard members in technology and software development, enabling them to build solutions that support Soldiers, and improve the "Guard Experience" . By encouraging cooperation and consolidating efforts, we strive to modernize and strengthen the Guard's technological capabilities, ensuring operational readiness and resilience against emerging threats. Our goal is to transform the Connecticut National Guard into a leading example of technological innovation and collaborative modernization.
+
+## Code of Conduct
+
+## Contribute
 
 To contribute to these resources follow the instructions on our [Contributing](https://github.com/gamma-gun/ctng_swf/blob/main/CONTRIBUTING.md#book-code-of-conduct) Guide.
 
