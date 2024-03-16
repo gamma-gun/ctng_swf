@@ -6,6 +6,8 @@
 Connect with us on to learn more, engage with our community, and stay updated on the latest developments.
 
 [![](https://dcbadge.vercel.app/api/server/Zf78WbRS)](https://discord.gg/Zf78WbRS)
+
+
 ## Contents
 
 - [Mission](#mission)
@@ -19,7 +21,7 @@ Connect with us on to learn more, engage with our community, and stay updated on
 
 Our mission is to empower the Connecticut National Guard by creating a community of skilled developers dedicated to launching tech careers, developing mission-critical software, and fostering innovation. We aim to connect, train, and mentor National Guard members in technology and software development, enabling them to build solutions that support Soldiers, and improve the "Guard Experience" . By encouraging cooperation and consolidating efforts, we strive to modernize and strengthen the Guard's technological capabilities, ensuring operational readiness and resilience against emerging threats. Our goal is to transform the Connecticut National Guard into a leading example of technological innovation and collaborative modernization.
 
-## Goals
+## Beginning Goals
 
 1. ***Establish a Core Team and Community:*** Form a foundational team of diverse Connecticut National Guard members to foster a community focused on technological innovation and collaboration.
 
@@ -68,11 +70,10 @@ The best resource I have found to keep track of your progress and essential skil
 - [DevOps Roadmap](https://roadmap.sh/devops) / [DevOps Beginner Roadmap](https://roadmap.sh/devops?r=devops-beginner)
 - [Full Stack Roadmap](https://roadmap.sh/full-stack)
 - [React Roadmap](https://roadmap.sh/react)
-- [React Native Roadmap](https://roadmap.sh/react-native)
 - [Vue Roadmap](https://roadmap.sh/vue)
 - [Angular Roadmap](https://roadmap.sh/angular)
 - [Node.js Roadmap](https://roadmap.sh/nodejs)
-- [GraphQL Roadmap](https://roadmap.sh/graphql)
+
 
 #### Computer Science
 
@@ -94,11 +95,13 @@ The best resource I have found to keep track of your progress and essential skil
 - [PostgreSQL Roadmap](https://roadmap.sh/postgresql-dba)
 - [SQL Roadmap](https://roadmap.sh/sql)
 - [MongoDB Roadmap](https://roadmap.sh/mongodb)
+- [GraphQL Roadmap](https://roadmap.sh/graphql)
 
 #### Mobile Development
 
 - [Android Roadmap](https://roadmap.sh/android)
 - [Flutter Roadmap](https://roadmap.sh/flutter)
+- [React Native Roadmap](https://roadmap.sh/react-native)
 
 #### DevOps and Management
 
