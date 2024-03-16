@@ -51,6 +51,7 @@ Python | [Automate the Boring Stuff with Python](https://automatetheboringstuff.
 SalesForce | [Salesforce: Military Trailhead ](https://veterans.my.site.com/s/) | `Beginner` | `Free`
 Python | [100 Days of Code: The Complete Python Pro Bootcamp](https://www.udemy.com/course/100-days-of-code/?couponCode=ST15MT31224) | `Beginner` | `$`
 Git and GitHub | [Git and GitHub Tutorial](https://www.freecodecamp.org/news/git-and-github-for-beginners/) | `Beginner` | `Free` 
+TypeScript | [Learn Typescript](https://scrimba.com/learn/typescript) | `Intermediate` | `Free`
 
 
 ## Don't get stuck in "tutorial hell", have a plan
